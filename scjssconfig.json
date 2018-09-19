@@ -1,0 +1,9 @@
+{
+  "sitecore": {
+    "instancePath": "/Users/kdi/Documents/Dev/sitecore-test",
+    "apiKey": "{AA3DA2DF-4E65-493B-BA6F-B306C5517FD6}",
+    "deploySecret": "klec6cshkpb34abgdyvfd0dgoisglkd96c6pqjtrg6ua",
+    "deployUrl": "https://jss-demo-env-425720-single.azurewebsites.net/sitecore/api/jss/import",
+    "layoutServiceHost": "https://jss-demo-env-425720-single.azurewebsites.net/"
+  }
+}
