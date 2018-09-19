@@ -69,10 +69,10 @@
   },
   "proxy": {
     "/sitecore": {
-      "target": "https://jss-react-demo.herokuapp.com:3042"
+      "target": "http://localhost:3042"
     },
     "/data/media": {
-      "target": "https://jss-react-demo.herokuapp.com:3042"
+      "target": "http://localhost:3042"
     }
   },
   "babel": {
