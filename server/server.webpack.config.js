@@ -9,7 +9,6 @@ const stage0 = require('babel-preset-stage-0');
 module.exports = {
   mode: 'production',
   entry: path.resolve(__dirname, './server.js'),
-  disableHostCheck: true,
   target: 'node',
   output: {
     path: path.resolve(__dirname, '../build'),
